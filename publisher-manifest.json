@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "2d00837e7b1120346f3e96c2",
+  "owner": "apcx3nqcm",
+  "repo": "page-5920372420fa432785b4c7eb",
+  "title": "clash verge机场推荐",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "5920372420fa432785b4c7eb",
+      "a": "MIMEMI",
+      "b": "clash verge机场推荐",
+      "entity": "MIMEMI",
+      "brand": "clash verge机场推荐",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "2374f1be6effc9cb06a23ea34ed2410c6d9cdaea81ff6bbe43db5c1b6636b251",
+      "content": {
+        "primary_entity": "MIMEMI",
+        "keyword1": "MIMEMI",
+        "keyword2": "clash verge机场推荐",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择客户端，将订阅链接导入后即可使用。",
+          "AI_CLIENTS_TITLE": "客户端按设备选择",
+          "AI_CLOSING_TEXT": "选好套餐并导入订阅，就能在常用设备上开始使用。",
+          "AI_CLOSING_TITLE": "开始使用 MIMEMI",
+          "AI_DESCRIPTION": "，MIMEMI 面向需要海外网络加速的用户，提供基础版、旗舰版与团队版三档订阅。基础版每月 100GB 流量、支持 3 台设备，适合日常浏览；旗舰版每月 300GB 流量、支持 5 台设备，加入 IPLC 专线游戏加速优化；团队版每月 1000GB 流量、支持 20 台设备，配有 VIP 专属高带宽节点和企业定制路由。客户端覆盖 Windows、macOS、iOS、Android 与 Linux 等常用系统，按设备选择合适客户端并导入订阅即可使用。",
+          "AI_FEATURES_INTRO": "从套餐周期、设备数量与节点线路三个角度对比，快速定位适合自己的订阅。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、旗舰版 300GB、团队版 1000GB，按日常用量选择即可。",
+          "AI_FEATURE_TEXT_2": "基础版 3 台、旗舰版 5 台、团队版 20 台设备同时在线，覆盖个人到小团队。",
+          "AI_FEATURE_TEXT_3": "旗舰版提供 IPLC 专线游戏加速优化，团队版提供 VIP 专属高带宽节点。",
+          "AI_FEATURE_TITLE_1": "流量与周期",
+          "AI_FEATURE_TITLE_2": "设备数量",
+          "AI_FEATURE_TITLE_3": "线路选择",
+          "AI_GUIDE_INTRO": "选择套餐后查看适配要求，再按客户端文档导入订阅。",
+          "AI_GUIDE_TITLE": "订阅配置三步",
+          "AI_HERO_INTRO": "MIMEMI 提供多档海外网络加速订阅，覆盖日常浏览、流媒体与游戏加速场景，客户端支持 Windows、macOS、iOS、Android 与 Linux 等常用系统。选定套餐后按设备导入订阅，即可在手机与电脑上使用。",
+          "AI_HERO_SUBTITLE": "多设备订阅，按需选择套餐",
+          "AI_HIGHLIGHT_1": "三档订阅覆盖个人与团队",
+          "AI_HIGHLIGHT_2": "支持多设备同时在线",
+          "AI_HIGHLIGHT_3": "IPLC 专线游戏加速优化",
+          "AI_PLANS_INTRO": "基础版适合轻量使用，旗舰版兼顾流量与专线加速，团队版提供更多设备数与高带宽节点。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据日常流量、同时在线设备数和线路需求，在基础版、旗舰版与团队版之间选择。",
+          "AI_STEP_TEXT_2": "确认设备系统与所需客户端，查看套餐标注的设备数量是否满足使用场景。",
+          "AI_STEP_TEXT_3": "按照对应客户端文档导入订阅链接，完成配置后即可在设备上使用。",
+          "AI_STEP_TITLE_1": "选择订阅",
+          "AI_STEP_TITLE_2": "查看适配",
+          "AI_STEP_TITLE_3": "导入配置",
+          "AI_VISUAL_TITLE": "MIMEMI 多设备加速订阅",
+          "AI_FAQ_ANSWER_1": "按设备数量、每月流量和周期选。单人日常用基础版；游戏或 5 台设备用旗舰版；多人团队用团队版。",
+          "AI_FAQ_ANSWER_2": "基础版 3 台，旗舰版 5 台，团队版 20 台。可先按常用设备数选套餐，后续升级灵活。",
+          "AI_FAQ_ANSWER_3": "选择套餐后按对应客户端文档导入订阅链接即可。不同系统操作略有不同，请以客户端说明为准。",
+          "AI_FAQ_ANSWER_4": "年付通常比月付省两个月费用。基础版年付 ¥150，旗舰版年付 ¥350，团队版年付 ¥850。",
+          "AI_FAQ_ANSWER_5": "旗舰版含 IPLC 专线游戏加速优化和 7x24 优先工单支持，团队版另含 VIP 高带宽节点与企业定制路由。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "怎么根据需求选套餐版本？",
+          "AI_FAQ_QUESTION_2": "每个版本支持多少台设备？",
+          "AI_FAQ_QUESTION_3": "订阅如何导入客户端？",
+          "AI_FAQ_QUESTION_4": "月付和年付价格差多少？",
+          "AI_FAQ_QUESTION_5": "旗舰版比基础版多了什么？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "f4084a09a2a9d02124b74d1cdcea344463c716f54119d3f6341a74c089be1760",
+    "sitemap.xml": "4a0f20400c76e935d976ec3ecad52d7c01a417173a5c81fb09091919800b923c",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "cce57c683352f7368a6c2a87fa94c2684418cc92f2daaa23aee50ea7ce3b5d36"
+}
